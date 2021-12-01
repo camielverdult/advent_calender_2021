@@ -19,7 +19,7 @@ three_measurements_window = []
 
 for i in range(0, len(numbers) - 3):
 
-    print("{} + {} + {} = {}".format(numbers[i], numbers[i + 1], numbers[i + 2], numbers[i] + numbers[i + 1] + numbers[i + 2]))
+    # print("{} + {} + {} = {}".format(numbers[i], numbers[i + 1], numbers[i + 2], numbers[i] + numbers[i + 1] + numbers[i + 2]))
 
     sums = numbers[i] + numbers[i + 1] + numbers[i + 2]
 
